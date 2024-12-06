@@ -1,5 +1,4 @@
-﻿# aiub_byte_builders_chatbot
-# aiub_byte_builders_chatbot
+
 # AIUB Byte Builders Chatbot
 
 This repository contains the code for a chatbot developed as part of the AIUB Byte Builders project. The chatbot is designed to handle basic conversations and provide useful responses to users based on predefined data.
