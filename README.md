@@ -22,3 +22,20 @@ You can install the required libraries by running:
 
 ```bash
 pip install -r requirements.txt
+
+
+```bash
+python -m venv hate
+```
+
+```bash
+python3.11 -m venv hate
+```
+
+```bash
+hate\Scripts\activate
+```
+
+```bash
+pip install -r requirements.txt
+```
